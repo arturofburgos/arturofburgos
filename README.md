@@ -5,30 +5,18 @@
 
 
 
-op 
+I consider myself an easy-going person, I'm driven by curiosity and passionate about learning and teaching. 
 
-
-op
-
-
-op
- 
- 
- op
- o
- p
- 
-<!--
 **arturofburgos/arturofburgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I consider myself an easy-going person
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I'm driven by curiosity
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 I'm passionate about learning and teaching
+- ⚡ Fun fact: I have a huge comic book collection
 -->
