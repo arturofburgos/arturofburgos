@@ -1,12 +1,7 @@
-<h1 align="center" style="font-family: 'Times', sans-serif;">🏛️  Hi everyone, I'm Arturo! 🏛️ </h1>
-
-<br />
-
-<br />
-
-<br />
-
 <img align="right" height="170px" width="400px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+
+
+<h1 align="center" style="font-family: 'Times', sans-serif;">🏛️  Hi everyone, I'm Arturo! 🏛️ </h1>
 
 <!--
 **arturofburgos/arturofburgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
