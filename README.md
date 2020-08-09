@@ -17,16 +17,17 @@
 
 <h2 align="center"> 💻 Languages and Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/python%20-%343458f.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c-yellowgreen?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Matlab%20-%343458f.svg?&style=for-the-badge&logo=Matlab&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/julia-yellowgreen?&style=for-the-badge&logo=julia&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/fortran%20-%343458f.svg?&style=for-the-badge&logo=fortran&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  </b>
-  <img src="https://img.shields.io/badge/solidworks-red.svg?&style=for-the-badge&logo=SolidWorks&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ansys-black.svg?&style=for-the-badge&logo=ansys&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+  <img height=45px src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"> &nbsp;&nbsp;&nbsp;
+  <img height=45px src="https://img.shields.io/badge/c%20-%2300D9FF.svg?&style=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img height=50px src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1">&nbsp;&nbsp;&nbsp;
+  <img height=50px src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">&nbsp;&nbsp;&nbsp;
+  <img height=50px src="https://img.icons8.com/nolan/2x/matlab.png">&nbsp;&nbsp;&nbsp;
+  <img height=50px src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg">&nbsp;&nbsp;&nbsp;
+  <img height=50px src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrvajalm.gallerycdn.vsassets.io%2Fextensions%2Fkrvajalm%2Flinter-gfortran%2F2.0.1%2F1540148929216%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">&nbsp;&nbsp;&nbsp;
+  <img height=55px src="https://img.icons8.com/color/2x/solidworks.png" />&nbsp;&nbsp;
+  <img height=50px src="https://img.shields.io/badge/ansys-black.svg?&style=for-the-badge&logo=ansys&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center"> Git, GitHub, Linux, LaTex</p>
+
 
 <hr>
 <hr>
@@ -35,7 +36,6 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/arturofburgos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:burgos.arturo.ufu@gmail.com?subject=Hi%20Arturo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://img.shields.io/badge/twitter%20-%2300D9FF.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%234553D.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
