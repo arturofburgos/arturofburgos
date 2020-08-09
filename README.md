@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Matlab%20-%343458f.svg?&style=for-the-badge&logo=Matlab&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/julia%20-%2300D9FF.svg?&style=for-the-badge&logo=julia&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/fortran%20-%343458f.svg?&style=for-the-badge&logo=fortran&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  </b>
   <img src="https://img.shields.io/badge/solidworks-red.svg?&style=for-the-badge&logo=SolidWorks&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ansys-black.svg?&style=for-the-badge&logo=ansys&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
 </p>
