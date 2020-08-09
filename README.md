@@ -37,6 +37,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/arturofburgos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:burgos.arturo.ufu@gmail.com?subject=Hi%20Arturo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%234553D.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
