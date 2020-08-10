@@ -42,9 +42,7 @@
 
 <p align="center">
     <a href="https://github.com/arturofburgos?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-/></ a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/arturofburgos/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arturofburgos/arturofburgos?label=profile%20updated&style=flat-square"></a>
 </p>
 
@@ -59,4 +57,4 @@
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturofburgos&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arturofburgos)
+
