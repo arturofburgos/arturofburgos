@@ -21,7 +21,7 @@
   <img height=45px src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"> &nbsp;&nbsp;&nbsp;
   <img height=45px src="https://img.shields.io/badge/c%20-%2300D9FF.svg?&style=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img height=50px src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1">&nbsp;&nbsp;&nbsp;
-  <code><img alt="Git" width="40px" src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg" /></code>
+  <code><img alt="Git" width="40px" src="https://www.freelogovectors.net/wp-content/uploads/2020/07/ansys-logo.png" /></code>
   <img height=50px src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">&nbsp;&nbsp;&nbsp;
   <img height=50px src="https://img.icons8.com/nolan/2x/matlab.png">&nbsp;&nbsp;&nbsp;
   <img height=50px src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg">&nbsp;&nbsp;&nbsp;
