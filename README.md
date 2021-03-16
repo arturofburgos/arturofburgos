@@ -11,7 +11,7 @@
 
 <p align="center"> <samp> I am a Mechanical Engineering student. I'm passionate about learning and teaching. Welcome to my personal profile! 
   
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8327-7790" href="https://orcid.org/0000-0001-8327-7790" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8327-7790</a></div>  
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8327-7790" href="https://orcid.org/0000-0001-8327-7790" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0001-8327-7790</a></div>  
 
 
 <hr>
@@ -42,8 +42,9 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/arturofburgos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:burgos.arturo.ufu@gmail.com?subject=Hi%20Arturo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%234553D.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Arturo_Burgos">Arturo Burgos on ResearchGate</a>
 </p>
 
@@ -57,14 +58,14 @@
 <hr>
 <hr>
 
-<p align="center">
+<!--<p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arturofburgos&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 
 
-<details>
+<!--<details>
 <summary>Click to see the Top Language</summary>
 
-<p align="center">
+<!--p align="center">
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturofburgos&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
