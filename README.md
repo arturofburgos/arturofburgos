@@ -44,7 +44,7 @@
   <a href="mailto:burgos.arturo.ufu@gmail.com?subject=Hi%20Arturo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Arturo-Burgos" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Arturo_Burgos">Arturo Burgos on ResearchGate</a>
 </p>
 
