@@ -45,7 +45,8 @@
   <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta?si=7yn-hw1kRLm4MySifa-UPw"><img src="https://img.shields.io/badge/Spotify%20-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/discord-blueviolet?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.researchgate.net/profile/Arturo-Burgos" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Arturo_Burgos">Arturo Burgos on ResearchGate</a>
+  <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"></a>
+  
 </p>
 
 <p align="center">
