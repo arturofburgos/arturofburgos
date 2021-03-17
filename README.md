@@ -6,7 +6,7 @@
 
 <h1 align="center" style="font-family: 'Times', sans-serif;">🏛️  Hi everyone, I'm Arturo! 🏛️ </h1>  
 
-<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+<!--<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />-->
 
 
 <p align="center"> <samp> I am a Mechanical Engineering student. I'm passionate about learning and teaching. Welcome to my personal profile! 
