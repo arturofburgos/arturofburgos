@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center" style="font-family: 'Times', sans-serif;">🏛️  Hi everyone, I'm Arturo! 🏛️ </h1>  
+<h1 align="center" style="font-family: 'Times', sans-serif;"> Hi everyone, I'm Arturo! </h1>  
 
 <!--<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />-->
 
@@ -16,7 +16,7 @@
 <hr>
 <hr>
 
-<h2 align="center"> 💻 Languages and Tools</h2>
+<!--<h2 align="center"> 💻 Languages and Tools</h2>
 <p align="center">
   <code><img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" /></code>
   <code><img alt="Python" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" /></code>
@@ -30,9 +30,16 @@
   <code><img alt="Ansys" width="40px" src="https://camo.githubusercontent.com/b786588e0e1658d91fbcb8ed4e1808a516c6b3af/68747470733a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30372f616e7379732d6c6f676f2e706e67" /></code>
   <code><img alt="TEX" width="40px" src="https://camo.githubusercontent.com/70b93ac44f888502657bd41a35cb97464638afe4/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747025334125324625324675706c6f61642e77696b696d656469612e6f726725324677696b697065646961253246636f6d6d6f6e732532467468756d6225324639253246393525324654655853686f705f69636f6e2e706e6725324636303070782d54655853686f705f69636f6e2e706e6726663d31266e6f66623d31" /></code>
   <code><img alt="Ubuntu" width="40px" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png" /></code>
-</p>  
+</p>  -->
 
-
+<h2 align="center"> 💻 Workspace</h2>
+<p align='center'>
+  
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%20930-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 <hr>
 <hr>
@@ -61,9 +68,8 @@
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats-arturofburgos.vercel.app/api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
-
-<h1 align="center" style="font-family: 'Times', sans-serif;">Spotify Playing</h1>  
-
+ 
+<h2 align="center"> 🎧 Last Spotify Playing</h2>
 
 <p align="center">
     <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta" target="_blank"><img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify"></a>
