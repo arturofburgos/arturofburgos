@@ -9,7 +9,7 @@
 <!--<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />-->
 
 
-<p align="center"> <samp> I am a Mechanical Engineering student. I'm passionate about learning and teaching. Welcome to my personal profile! 
+<p align="center"> <samp> Mechanical engineer and technology enthusiast   </p>
   
 
 
@@ -30,7 +30,7 @@
   <code><img alt="Ansys" width="40px" src="https://camo.githubusercontent.com/b786588e0e1658d91fbcb8ed4e1808a516c6b3af/68747470733a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30372f616e7379732d6c6f676f2e706e67" /></code>
   <code><img alt="TEX" width="40px" src="https://camo.githubusercontent.com/70b93ac44f888502657bd41a35cb97464638afe4/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747025334125324625324675706c6f61642e77696b696d656469612e6f726725324677696b697065646961253246636f6d6d6f6e732532467468756d6225324639253246393525324654655853686f705f69636f6e2e706e6725324636303070782d54655853686f705f69636f6e2e706e6726663d31266e6f66623d31" /></code>
   <code><img alt="Ubuntu" width="40px" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png" /></code>
-  
+</p>  
 
 
 
