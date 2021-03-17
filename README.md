@@ -31,7 +31,7 @@
   <code><img alt="TEX" width="40px" src="https://camo.githubusercontent.com/70b93ac44f888502657bd41a35cb97464638afe4/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747025334125324625324675706c6f61642e77696b696d656469612e6f726725324677696b697065646961253246636f6d6d6f6e732532467468756d6225324639253246393525324654655853686f705f69636f6e2e706e6725324636303070782d54655853686f705f69636f6e2e706e6726663d31266e6f66623d31" /></code>
   <code><img alt="Ubuntu" width="40px" src="https://seeklogo.com/images/U/ubuntu-linux-logo-A8280F4D05-seeklogo.com.png" /></code>
   
-</p>
+
 
 
 <hr>
@@ -46,7 +46,7 @@
   <a href="https://www.researchgate.net/profile/Arturo-Burgos" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://orcid.org/0000-0001-8327-7790" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white"></a>
   
-</p>
+
 
 <p align="center">
   <a href="https://github.com/arturofburgos?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,15 +59,15 @@
 <hr>
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats-arturofburgos.vercel.app/api?username=arturofburgos&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats-arturofburgos.vercel.app/api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-arturofburgos.vercel.app/api?username=arturofburgos&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats-arturofburgos.vercel.app/api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Spotify](https://novatorem-arturofburgos.vercel.app/api/spotify)](https://open.spotify.com/user/22izpiow2crgirhnndadakhta)
 
+
+ <img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify">
 <!--<details>
 <summary>Click to see the Top Language</summary>
 
