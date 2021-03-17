@@ -60,14 +60,11 @@
 
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats-arturofburgos.vercel.app/api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify">
 </p>
 
 
 
-[![Spotify](https://novatorem-arturofburgos.vercel.app/api/spotify)](https://open.spotify.com/user/22izpiow2crgirhnndadakhta)
-
-
- <img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify">
 <!--<details>
 <summary>Click to see the Top Language</summary>
 
