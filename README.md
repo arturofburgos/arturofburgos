@@ -62,6 +62,9 @@
     <img alt = "GitHub Stats" src="https://github-readme-stats-arturofburgos.vercel.app/api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 
+<h1 align="center" style="font-family: 'Times', sans-serif;">Spotify Playing</h1>  
+
+
 <p align="center">
     <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta" target="_blank"><img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify"></a>
 </p>
