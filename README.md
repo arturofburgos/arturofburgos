@@ -61,19 +61,18 @@
   <a target="_blank"href="https://discord.gg/ZRuBWz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>-->
 </p>  
 
-
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/arturofburgos?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/arturofburgos" target="_blank"><img alt="arturofburgos" src="https://komarev.com/ghpvc/?username=arturofburgos"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--<a href="https://github.com/arturofburgos" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/arturofburgos/arturofburgos?label=hits&style=flat-square"></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
-  <a href="https://github.com/arturofburgos/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arturofburgos/arturofburgos?&label=Profile%20updated&style=flat&color=blue"></a>
+  <a href="https://github.com/arturofburgos" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/arturofburgos/arturofburgos?label=hits&style=flat-square"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/arturofburgos/" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arturofburgos/arturofburgos?&label=Profile%20updated&style=flat&color=blue"></a>-->
 </p>
 
 <hr>
 <hr>
 
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app//api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<!--<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app//api/?username=arturofburgos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">-->
 </p>
  
 <h2 align="center"> 🎧 Last Spotify Playing</h2>
