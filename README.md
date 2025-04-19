@@ -16,11 +16,11 @@ abstract struct Dev end
 end
 ```
  
-<h2 align="center"> 🎧 Last Spotify Playing</h2>
+<!--<h2 align="center"> 🎧 Last Spotify Playing</h2>
 
 <p align="center">
     <a href="https://open.spotify.com/user/22izpiow2crgirhnndadakhta" target="_blank"><img alt = "Arturo Spotify Playing" src="https://novatorem-arturofburgos.vercel.app/api/spotify"></a>
 </p>
-
+-->
 
 
