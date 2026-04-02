@@ -3,7 +3,7 @@
 
 
 
-My name is Arturo Burgos, I'm a PhD student at UIUC and a Julia enthusiast. My primary focus is in modeling fluid-structure interaction simulations for flow control.
+My name is Arturo Burgos, I'm a PhD student @ UIUC and a Julia enthusiast. My research focus is to model fluid-structure interaction using metamaterials. I also love anything related to the intersection between fluid mechanics and scientific machine learning.
   
 ```julia
 abstract struct Dev end
@@ -11,7 +11,7 @@ abstract struct Dev end
 @kwdef mutable struct ArturoBurgos <: Dev
   languages = ["Julia", "Python", "Matlab", "Fortran"]
   interests = ["CFD", "Machine Learning", "High-Performance Computing"]
-  age = 27
+  age = 28
   open_to_work = true
 end
 ```
